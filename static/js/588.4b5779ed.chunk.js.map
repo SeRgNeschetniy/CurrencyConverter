@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/588.4b5779ed.chunk.js","mappings":"uMAEe,SAASA,IACtB,OAAO,qCACR,C","sources":["pages/Exchange.js"],"sourcesContent":["import React from 'react';\n\nexport default function Exchange() {\n  return <div>Exchange</div>;\n}\n"],"names":["Exchange"],"sourceRoot":""}

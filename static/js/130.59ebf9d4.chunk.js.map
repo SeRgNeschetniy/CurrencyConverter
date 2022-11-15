@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/130.59ebf9d4.chunk.js","mappings":"uMAEe,SAASA,IACtB,OAAO,sCACR,C","sources":["pages/Converter.js"],"sourcesContent":["import React from 'react';\n\nexport default function Converter() {\n  return <div>Converter</div>;\n}\n"],"names":["Converter"],"sourceRoot":""}
